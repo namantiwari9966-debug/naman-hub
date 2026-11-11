@@ -5,7 +5,7 @@
 ========================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=220&section=header&text=NAMAN%40KUMAR&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=AI%20ML%20Engineer%20%7C%20Python%20Developer&descColor=00F7FF&descAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=220&section=header&text=NAMAN%20KUMAR&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=40&desc=AI%20ML%20Engineer%20%7C%20Python%20Developer&descColor=00F7FF&descAlignY=65" />
 </p>
 
 <p align="center">
